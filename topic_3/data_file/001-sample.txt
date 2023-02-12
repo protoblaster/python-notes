@@ -1,0 +1,3 @@
+Hello everybody
+This is text from the '001-sample.txt' file
+This is a sample text
